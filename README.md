@@ -1,4 +1,2 @@
-# BookCave
-Android app to sell and rent books in a city. Done as a project for MCA Sem-I
-
-it's still WORK IN PROGRESS.
+# BookShare
+Android app to sell,Buy and rent books in a city and has the unique feture of book recommendation. Done as a project for final year BE.
